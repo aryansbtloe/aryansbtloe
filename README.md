@@ -6,8 +6,6 @@ All links checked on 27 Oct 2026 (bestlatestapps.com pages return HTTP 200 with 
 Note: GitHub adds rel="nofollow" to README and profile links, so this is for discovery and branding, not DR.
 -->
 
-===== README.md (copy from here) =====
-
 # Alok Kumar Singh
 
 AI-native senior mobile and full-stack engineer in Gurugram, with 15+ years across iOS, Android, web and backend. SDE 4 at PRISM (OYO consumer app) since April 2026; before that, 5 years at Grab.
@@ -18,7 +16,7 @@ AI-native senior mobile and full-stack engineer in Gurugram, with 15+ years acro
 
 ## Free developer tools (run in the browser)
 
-All 190+ tools: [bestlatestapps.com/tools](https://bestlatestapps.com/tools/) · Developer tools: [/tools/developer](https://bestlatestapps.com/tools/developer/)
+All 300+ tools: [bestlatestapps.com/tools](https://bestlatestapps.com/tools/) · Developer tools: [/tools/developer](https://bestlatestapps.com/tools/developer/)
 
 - [Push Notification Tester](https://bestlatestapps.com/tools/push-notification-tester/): build and validate APNs payloads
 - [APNs JWT Generator](https://bestlatestapps.com/tools/apns-jwt-generator/): sign a .p8 token in your browser
@@ -40,16 +38,6 @@ All 190+ tools: [bestlatestapps.com/tools](https://bestlatestapps.com/tools/) ·
 
 [X @BestAppsLatest](https://x.com/BestAppsLatest) · [Medium](https://medium.com/@alok.singh.confident) · [LinkedIn](https://www.linkedin.com/in/256261/) · [App Store developer page](https://apps.apple.com/us/developer/alok-singh/id1508795536)
 
-===== end of README.md =====
-
-## Notes for Alok (not part of the README)
-
-### Facts used, and where they come from
-- 24 apps: iTunes Lookup API, 27 Oct 2026 (23 iOS + 1 macOS).
-- ~3.4K US ratings for Mic to Speaker: the lookup shows 3,418.
-- 190+ tools: the /tools/ page says "192 free tools". The tools sitemap has 204 tool URLs, so "190+" is the safe wording.
-- Role, years and employers: from your brief. The current GitHub profile already shows company "Prism" and location "Gurugram".
-- I added no star counts, download numbers or other claims.
 
 ### Repos to pin (GitHub allows 6)
 Chosen from all 243 public repos (69 are your own, not forks), using `https://api.github.com/users/aryansbtloe/repos`:
@@ -95,8 +83,3 @@ These are all empty right now. Verified: GitHub adds `rel="nofollow"` to these l
 | com.aryansbtloe.privacy.pillsTracker.ios * | https://bestlatestapps.com/apps/track-your-pills/ |
 | -com.aryansbtloe.privacy.popperz.ios * | https://bestlatestapps.com/apps/marbles-popperz/ |
 | com.aryansbtloe.privacy.dotmatching.ios * | https://bestlatestapps.com/apps/speck-match/ |
-
-\* I inferred these from the repo name. Please confirm each one is the right app.
-
-Skipped (no matching page): expense.tracker, vpn, app-research, template, apns-tester.sample.ios, and the forks.
-**Don't delete or rename the privacy repos.** Five live App Store listings (Tic Tac Toe, Hanuman Chalisa, Hashtags Creator, Scan Via Cam, Drums n Piano) still link to their GitHub Pages privacy URLs until their next versions ship.
